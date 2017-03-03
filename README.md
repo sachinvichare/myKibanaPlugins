@@ -1,0 +1,2 @@
+# myKibanaPlugins
+my Kibana Plugins
